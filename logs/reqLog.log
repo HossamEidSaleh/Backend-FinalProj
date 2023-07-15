@@ -1,0 +1,16 @@
+20230704	01:41:36	9c75742c-f354-4814-8d44-25d482bb5887	GET	/	undefined
+20230704	01:41:36	ef5c8770-1057-4715-b09d-53514d1e8230	GET	/css/style.css	undefined
+20230709	00:58:03	4d99d05a-505a-40e9-b1d4-c6ed7fecaf80	GET	/	undefined
+20230709	00:58:03	44eb0b81-fdef-48a3-99e4-7ec340d53e70	GET	/css/style.css	undefined
+20230709	00:59:14	1dd493a1-29e1-4e50-b132-75b35b3f9db7	GET	/	undefined
+20230709	00:59:14	830fa42b-5e0c-4012-8047-6bf32066398c	GET	/css/style.css	undefined
+20230715	21:49:37	dd5b7e9a-5827-4dc5-ada1-1587c22e8afd	GET	/	undefined
+20230715	21:49:37	2d0c943c-0473-45c8-b1bc-dc942d058eed	GET	/css/style.css	undefined
+20230715	21:49:39	07debf0a-d4a1-4be9-9a32-2120d0c132e3	GET	/favicon.ico	undefined
+20230715	21:49:47	0e99fde5-813e-4b6a-8508-011b55224427	GET	/login	undefined
+20230715	21:49:47	13391904-b12f-43e2-92f3-edef9c65866c	GET	/css/styles.css	undefined
+20230715	21:51:03	12226c21-474e-4152-965c-1947ffd138aa	POST	/users	undefined
+20230715	21:51:24	eefe9712-5c4e-46de-b220-893cabffaaf6	POST	/users	undefined
+20230715	21:51:44	22fec4a9-b434-454f-8632-9c9b5ce34a58	POST	/users	undefined
+20230715	21:51:52	816d9084-3d6d-46b1-aaec-e25cb15c56c0	GET	/users	undefined
+20230715	21:51:59	7936cd2a-c66f-4997-8b2f-c315ea49560e	DELETE	/users	undefined
